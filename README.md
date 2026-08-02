@@ -143,6 +143,11 @@ This project demonstrates practical implementation of:
 * Performance Analytics
 * Mobile-friendly request submission
 
+
+demo result dashboard:
+https://github.com/user-attachments/assets/2ea54732-fcaf-4d3a-9cc2-6fca0cd32116
+
+
 # 👨‍💻 Author
 
 **Kudaravalli Sai Siri**
