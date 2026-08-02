@@ -145,7 +145,7 @@ This project demonstrates practical implementation of:
 
 
 demo result dashboard:
-https://github.com/user-attachments/assets/2ea54732-fcaf-4d3a-9cc2-6fca0cd32116
+<video src="https://github.com/user-attachments/assets/2ea54732-fcaf-4d3a-9cc2-6fca0cd32116" controls width="100%"></video>
 
 
 # 👨‍💻 Author
